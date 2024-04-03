@@ -1,0 +1,66 @@
+body {
+    background-color: rgb(240, 255, 242);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: small;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+#label {
+    padding-top: 60px;
+    font-size: xx-large;
+    font-weight: 00;
+    text-align: center;
+}
+
+input#valorX {
+    margin-top: 5px;
+    border-radius: 6px;
+    height: 40px;
+    width: 58px;
+    font-size: larger;
+    border-width: 3px;
+}
+
+input#valorConhecido {
+    margin-top: 5px;
+    border-radius: 6px;
+    height: 40px;
+    width: 58px;
+    font-size: larger;
+    border-width: 3px;
+}
+
+#palavra {
+    height: 50px;
+    width: 500px;
+    font-size: large;
+}
+
+button {
+    border-width: 3px;
+    border-radius: 6px;
+    height: 50px;
+    width: 120px;
+    font-size: larger;
+    background-color: rgb(43, 226, 104);
+}
+
+button:hover {
+    background-color: rgb(36, 191, 87);
+}
+
+#resultado {
+    font-size: xx-large;
+}
+
+footer {
+    position: relative;
+    text-align: center;
+}
